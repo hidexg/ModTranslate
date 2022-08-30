@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModTranslate", "ModTranslate.csproj", "{0381A031-A056-4EE8-B338-1A894BBCF0B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiduConnectApi", "..\BaiduConnectApi\BaiduConnectApi.csproj", "{B952E5B3-838A-45C4-A7DD-C00E8B4417DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Test\Test.csproj", "{64347863-A549-422B-9EDA-2BD902C8C324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0381A031-A056-4EE8-B338-1A894BBCF0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0381A031-A056-4EE8-B338-1A894BBCF0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0381A031-A056-4EE8-B338-1A894BBCF0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0381A031-A056-4EE8-B338-1A894BBCF0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B952E5B3-838A-45C4-A7DD-C00E8B4417DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B952E5B3-838A-45C4-A7DD-C00E8B4417DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B952E5B3-838A-45C4-A7DD-C00E8B4417DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B952E5B3-838A-45C4-A7DD-C00E8B4417DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64347863-A549-422B-9EDA-2BD902C8C324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64347863-A549-422B-9EDA-2BD902C8C324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64347863-A549-422B-9EDA-2BD902C8C324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64347863-A549-422B-9EDA-2BD902C8C324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24C857DC-CAE4-44D1-B052-B7AF2206F14D}
+	EndGlobalSection
+EndGlobal
