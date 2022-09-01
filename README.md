@@ -10,3 +10,19 @@
 ![image](https://user-images.githubusercontent.com/112454463/187819726-bcdd269f-1925-45dd-80ab-8c030a4ae377.png)  
 百度翻译的后台[链接](https://fanyi-api.baidu.com/api/trans/product/index)  
 # 使用方法
+```c#
+using BaiduConnectApi;
+...
+result = ConnectApi.Translate("百度翻译");
+```
+修改为自己的ConnectApi
+```c#
+    public static class ConnectApi
+    {
+        private const string AppId = "修改你的APPID";
+        private const string AppKey = "你的密钥";
+        private const string Empty = "";
+        static string URL = "http://api.fanyi.baidu.com/api/trans/vip/translate?";
+        ...
+    }
+```
