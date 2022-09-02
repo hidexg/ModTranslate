@@ -11,4 +11,4 @@
 百度翻译的后台[链接](https://fanyi-api.baidu.com/api/trans/product/index)  
 
 # 下载  
-https://github.com/hidexg/ModTranslate/blob/master/ModTranslate%20v1.00.0.zip
+编译版本v1.00.0https://github.com/hidexg/ModTranslate/blob/master/ModTranslate%20v1.00.0.zip
